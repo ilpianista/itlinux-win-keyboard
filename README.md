@@ -24,6 +24,12 @@ An Italian keyboard layout for Windows, customized with Linux shortcuts.
 
 Build from sources using [MSKLC](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts) tool or download and install the previously built version.
 
+## Why
+
+Current [Italian keyboard layout](https://www.microsoft.com/resources/msdn/goglobal/keyboards/kbdit.html) for Windows does not allow a method to easily (one-shot) type tilde and backtick.
+
+[Italian (142) keyboard layout](https://www.microsoft.com/resources/msdn/goglobal/keyboards/kbdit142.html) instead, breaks common used shortcuts to get curly and square brackets.
+
 ## License
 
 MIT
