@@ -30,6 +30,10 @@ Current [Italian keyboard layout](https://www.microsoft.com/resources/msdn/goglo
 
 [Italian (142) keyboard layout](https://www.microsoft.com/resources/msdn/goglobal/keyboards/kbdit142.html) instead, breaks common used shortcuts to get curly and square brackets.
 
+## Donate
+
+Donations via [Liberapay](https://liberapay.com/ilpianista) or Bitcoin (1Ph3hFEoQaD4PK6MhL3kBNNh9FZFBfisEH) are always welcomed, _thank you_!
+
 ## License
 
 MIT
