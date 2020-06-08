@@ -4,3 +4,9 @@ Desktop.ini
 # Linux
 *~
 *.swp
+amd64
+i386
+ia64
+wow64
+*.msi
+*.exe
