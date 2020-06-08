@@ -9,16 +9,22 @@ An Italian keyboard layout for Windows, customized with Linux shortcuts.
 ## Pictures
 
 ### Default
-![Default](https://raw.githubusercontent.com/ilpianista/itlinux-win-keyboard/master/pictures/ITLinux.jpg)
+![Default](pictures/ITLinux.jpg)
 
 ### Shift
-![Shift](https://raw.githubusercontent.com/ilpianista/itlinux-win-keyboard/master/pictures/ITLinuxShft.jpg)
+![Shift](pictures/ITLinuxShft.jpg)
 
 ### Ctrl
-![Ctrl](https://raw.githubusercontent.com/ilpianista/itlinux-win-keyboard/master/pictures/ITLinuxCtrl.jpg)
+![Ctrl](pictures/ITLinuxCtrl.jpg)
 
 ### AltGr
-![AltGr](https://raw.githubusercontent.com/ilpianista/itlinux-win-keyboard/master/pictures/ITLinuxAltGr.jpg)
+![AltGr](pictures/ITLinuxAltGr.jpg)
+
+### Caps
+![Caps](pictures/ITLinuxCaps.jpg)
+
+### ShiftCaps
+![ShiftCaps](pictures/ITLinuxShftCaps.jpg)
 
 ## Installation
 
