@@ -20,6 +20,9 @@ An Italian keyboard layout for Windows, customized with Linux shortcuts.
 ### AltGr
 ![AltGr](pictures/ITLinuxAltGr.jpg)
 
+### Shift + AltGr
+![ShftAltGr](pictures/ITLinuxShftAltGr.jpg)
+
 ### Caps
 ![Caps](pictures/ITLinuxCaps.jpg)
 
