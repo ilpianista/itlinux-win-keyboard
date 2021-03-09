@@ -22,7 +22,7 @@ An Italian keyboard layout for Windows, customized with Linux shortcuts.
 
 ## Installation
 
-Build from sources using [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=22339) tool or download and install the previously built version.
+Build from sources using [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134) tool or download and install the previously built version.
 
 ### Without Administrator rights
 
