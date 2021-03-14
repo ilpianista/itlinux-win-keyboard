@@ -4,3 +4,7 @@ Desktop.ini
 # Linux
 *~
 *.swp
+*.dll
+*.msi
+*.exe
+*.zip
