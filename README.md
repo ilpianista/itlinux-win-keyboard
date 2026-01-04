@@ -20,6 +20,15 @@ An Italian keyboard layout for Windows, customized with Linux shortcuts.
 ### AltGr
 ![AltGr](pictures/ITLinuxAltGr.jpg)
 
+### Shift + AltGr
+![ShftAltGr](pictures/ITLinuxShftAltGr.jpg)
+
+### Caps
+![Caps](pictures/ITLinuxCaps.jpg)
+
+### ShiftCaps
+![ShiftCaps](pictures/ITLinuxShftCaps.jpg)
+
 ## Installation
 
 Build from sources using [MSKLC](https://www.microsoft.com/en-us/download/details.aspx?id=102134) tool or download and install the previously built version.
